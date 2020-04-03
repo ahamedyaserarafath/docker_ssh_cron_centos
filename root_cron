@@ -1,0 +1,1 @@
+*/1 * * * * echo $(date) 2>>/tmp/cronlogs 1>/dev/null
